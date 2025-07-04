@@ -12,7 +12,7 @@
 - Basic Networking Concepts
 
 ⚒️ **Tech Stack:**
-- **Languages:** PHP, MySQL, HTML, CSS, Dart (Flutter and still exploring on this field)
+- **Languages:** PHP, MySQL, HTML, CSS, Dart (Flutter)
 - **Tools:** Git & GitHub, WPS Office, VS Code, Android Studio
 - **Concepts:** Basic Networking, Productivity Tools, Mobile App Development
 
